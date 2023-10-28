@@ -11,7 +11,7 @@ The `Products` component uses React Query hooks (`useQuery`, `useMutation`, `use
 - `useMutation`: Handles deletion and updating of products.
 - `useQueryClient`: Manages caching and invalidates queries on mutations.
 
-##  How to Use
+## 🤓 How to Use
 
 1. Clone the repository or download the source code.
 2. Make sure you have Node.js and npm installed on your system.
