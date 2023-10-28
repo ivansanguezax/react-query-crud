@@ -1,12 +1,13 @@
-import Products from "./components/Products"
-
-
+import Products from "./components/Products";
+import ProductForm from "./components/ProductForm";
 
 function App() {
   return (
-    <Products />
-  )
+    <>
+      <ProductForm />
+      <Products />
+    </>
+  );
 }
 
-export default App
-
+export default App;
