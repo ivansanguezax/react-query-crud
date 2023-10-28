@@ -48,41 +48,6 @@
       "description": "This is a very good phone",
       "price": 500,
       "inStock": true
-    },
-    {
-      "id": 8,
-      "name": "Huawei P9",
-      "description": "This is a very good phone",
-      "price": 300,
-      "inStock": false
-    },
-    {
-      "name": "server",
-      "price": "1212",
-      "description": "servidor web",
-      "inStock": true,
-      "id": 9
-    },
-    {
-      "name": "mouse gaming",
-      "price": "1212",
-      "description": "razer mouse",
-      "inStock": true,
-      "id": 10
-    },
-    {
-      "name": "keyboard",
-      "price": "1212",
-      "description": "razer",
-      "inStock": true,
-      "id": 11
-    },
-    {
-      "name": "keyboard",
-      "price": "1212",
-      "description": "razer",
-      "inStock": true,
-      "id": 12
     }
   ]
 }
