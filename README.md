@@ -20,8 +20,6 @@ The `Products` component uses React Query hooks (`useQuery`, `useMutation`, `use
 
 ## 🛠️ Technologies Used
 
-## 🛠️ Technologies Used
-
 - ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 - ![React Query](https://img.shields.io/badge/React%20Query-%23000000.svg?style=flat)
 - ![JSON-server](https://img.shields.io/badge/JSON%20server-%23000000.svg?style=flat)
